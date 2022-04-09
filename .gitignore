@@ -1,0 +1,13 @@
+.DS_Store/
+.vs/
+
+AndroidEglooBinding/.DS_Store/
+AndroidEglooBinding/.vs/
+
+AndroidEglooBinding/AndroidEglooBinding/.DS_Store/
+
+AndroidEglooBinding/AndroidEglooBinding/bin/
+AndroidEglooBinding/AndroidEglooBinding/obj/
+
+*.jar
+*.aar
